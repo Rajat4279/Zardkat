@@ -12,7 +12,7 @@ In the code, "a" and "b" are the input signals, "x" and "y" are the intermediary
 1. Clone the repository:
 
 ```
-
+https://github.com/Rajat4279/Zardkat.git
 ```
 
 2. Install the dependencies :
